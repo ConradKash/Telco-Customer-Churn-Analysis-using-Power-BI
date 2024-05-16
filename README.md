@@ -45,7 +45,7 @@ The Telco Customer Churn Star Schema Model contains:
     - ```Location_Dim``` which contains sub-dimension ```Population_Dim```
     - ```Status_Dim```
 
-![DataModel](ScreenShots\DataModel.png)
+![DataModel](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/DataModel.png)
 
 
 ## Power BI Dashboard:
@@ -66,12 +66,12 @@ The dashboard contains:
 
 - **Churn and Revenu Page** which analyzes the revenue from each customer type, customers' states at the end of the year, churned customers, and their reasons to churn.
 
-![1](ScreenShots\1.png)
+![1](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/1.png)
 
-![2](ScreenShots\2.png)
+![2](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/2.png)
 
-![3](ScreenShots\3.png)
+![3](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/3.png)
 
-![4](ScreenShots\4.png)
+![4](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/4.png)
 
-![5](ScreenShots\5.png)
+![5](https://github.com/ConradKash/Telco-Customer-Churn-Analysis-using-Power-BI/blob/main/ScreenShots/5.png)
